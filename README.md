@@ -1,3 +1,3 @@
 # Codercraft-2.0
-![Header](./Home 1.jpg)
-![Header](./Home 2.png)
+![Header](./home1.jpg)
+![Header](./home2.jpg)
